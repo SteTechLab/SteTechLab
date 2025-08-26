@@ -1,16 +1,71 @@
-## Hi there 👋
+# SteTechLab – IT Portfolio
 
-<!--
-**SteTechLab/SteTechLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I’m Stefano (Ste)! I’m a self-taught IT support technician with 10+ years of hands-on experience repairing and optimizing computers, smartphones, game consoles, and home networks. I completed the **Google IT Support Certificate** and have built strong troubleshooting, system administration, and networking skills through real-world projects. This portfolio showcases my practical work through labs and experiments demonstrating what I can do in IT support.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+**Operating Systems & Software**
+- Installing and configuring Windows and Linux systems
+- Installing drivers, custom firmware, and necessary software
+- Performance tuning: removing bloatware, adjusting startup, registry cleanup
+
+**Networking**
+- Setting up and securing home Wi-Fi networks and routers
+- Troubleshooting connectivity issues
+- Configuring static IPs, DHCP, and DNS
+
+**Hardware & Troubleshooting**
+- Diagnosing and repairing PCs, smartphones, and game consoles
+- Malware scans, cleanup, and basic data recovery
+- User-focused problem-solving and teaching non-technical users
+
+**Command Line & Tools**
+- Basic Windows CMD & PowerShell usage for diagnostics
+- Basic Linux Bash commands for system management
+
+**Professional Traits**
+- Deep problem analysis and persistent troubleshooting
+- Calm under pressure, focused on end-user satisfaction
+- Self-taught, strong research and learning skills
+
+---
+
+## Projects / Labs
+
+### [Windows AD Lab](Projects/Windows-AD-Lab/README.md)
+- Objective: Set up Active Directory, users, groups, and Group Policies
+- Skills demonstrated: Windows Server installation, AD management, GPOs, troubleshooting
+
+### [Linux VM Lab](Projects/Linux-VM-Lab/README.md)
+- Objective: Configure Linux VM with SSH, file permissions, and network settings
+- Skills demonstrated: Linux OS setup, basic CLI, permissions, connectivity
+
+### [Home Networking Lab](Projects/Networking-Lab/README.md)
+- Objective: Set up and troubleshoot a home network with routers and Wi-Fi
+- Skills demonstrated: DHCP, static IPs, DNS, Wi-Fi signal optimization
+
+### [Troubleshooting Lab](Projects/Troubleshooting-Lab/README.md)
+- Objective: Diagnose and fix real-world system issues
+- Skills demonstrated: Malware removal, performance tuning, data recovery
+
+---
+
+## Certifications
+- **Google IT Support Professional Certificate** (2025)  
+- [EF SET English Certificate](https://www.efset.org/)
+
+---
+
+## Languages
+- Italian – Native/Bilingual  
+- English – Proficient (B2)  
+
+---
+
+## Portfolio
+- [Drive folder with lab files, screenshots, and notes](https://drive.google.com/drive/folders/1iOL1VOD1c_tl4xP1MKZqRJIgWkPHJnMD?usp=sharing)
+
+---
+
