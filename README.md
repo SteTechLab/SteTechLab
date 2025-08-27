@@ -54,7 +54,7 @@ Hi, I’m Stefano, a self-taught IT support technician with 10+ years of hands-o
 
 ## Certifications
 - **Google IT Support Professional Certificate** (2025)  
-- [EF SET English Certificate](https://www.efset.org/)
+- EF SET English Certificate
 
 ---
 
@@ -65,7 +65,7 @@ Hi, I’m Stefano, a self-taught IT support technician with 10+ years of hands-o
 ---
 
 ## Portfolio
-- [Drive folder with lab files, screenshots, and notes](https://drive.google.com/drive/folders/1iOL1VOD1c_tl4xP1MKZqRJIgWkPHJnMD?usp=sharing)
+- 
 
 ---
 
