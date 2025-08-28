@@ -1,6 +1,6 @@
 # SteTechLab – IT Portfolio
 
-Hi, I’m Stefano, a self-taught IT support technician with 10+ years of hands-on experience repairing and optimizing computers, smartphones, game consoles, and home networks. I completed the **Google IT Support Certificate** and have built strong troubleshooting, system administration, and networking skills through real-world projects. This portfolio showcases my practical work through labs and experiments demonstrating what I can do in IT support.
+Hi, I’m Stefano (Ste)! I’m a self-taught IT support technician with 10+ years of hands-on experience repairing and optimizing computers, smartphones, game consoles, and home networks. I completed the **Google IT Support Certificate** and have built strong troubleshooting, system administration, and networking skills through real-world projects. This portfolio showcases my practical work through labs and experiments demonstrating what I can do in IT support.
 
 ---
 
@@ -46,7 +46,7 @@ Hi, I’m Stefano, a self-taught IT support technician with 10+ years of hands-o
 - Objective: Set up and troubleshoot a home network with routers and Wi-Fi
 - Skills demonstrated: DHCP, static IPs, DNS, Wi-Fi signal optimization
 
-### [Troubleshooting Lab](Projects/Malware-Performance Lab/README.md)
+### [Troubleshooting Lab](Projects/Troubleshooting-Lab/README.md)
 - Objective: Diagnose and fix real-world system issues
 - Skills demonstrated: Malware removal, performance tuning, data recovery
 
@@ -54,7 +54,7 @@ Hi, I’m Stefano, a self-taught IT support technician with 10+ years of hands-o
 
 ## Certifications
 - **Google IT Support Professional Certificate** (2025)  
-- EF SET English Certificate
+- [EF SET English Certificate](https://www.efset.org/) (B2, 2025)  
 
 ---
 
@@ -65,7 +65,8 @@ Hi, I’m Stefano, a self-taught IT support technician with 10+ years of hands-o
 ---
 
 ## Portfolio
-- 
+- [Drive folder with lab files, screenshots, and notes](https://drive.google.com/drive/folders/1iOL1VOD1c_tl4xP1MKZqRJIgWkPHJnMD?usp=sharing)
 
 ---
+
 
