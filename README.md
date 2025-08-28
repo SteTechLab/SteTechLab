@@ -46,7 +46,7 @@ Hi, I’m Stefano, a self-taught IT support technician with 10+ years of hands-o
 - Objective: Set up and troubleshoot a home network with routers and Wi-Fi
 - Skills demonstrated: DHCP, static IPs, DNS, Wi-Fi signal optimization
 
-### [Troubleshooting Lab](Projects/Malware-Performance Lab/README.md)
+### [Troubleshooting Lab](Projects/Malware-Performance Lab)
 - Objective: Diagnose and fix real-world system issues
 - Skills demonstrated: Malware removal, performance tuning, data recovery
 
