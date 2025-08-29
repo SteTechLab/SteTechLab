@@ -3,7 +3,7 @@
 Objective: Diagnose and fix malware infections, optimize system performance, and recover lost data.
 
 Tools Used:
-- Windows Defender / Malwarebytes
+- Windows Defender / Malwarebytes / Bitdefender / Kaspersky
 - CCleaner / performance tuning tools
 - System restore / recovery utilities
 
