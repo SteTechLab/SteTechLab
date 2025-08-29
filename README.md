@@ -34,7 +34,7 @@ Hi, I’m Stefano, a self-taught IT technician with 10+ years of hands-on experi
 
 ## Projects / Labs
 
-### [Windows AD Lab](Projects/Windows-AD-Lab/README.md)
+### [Windows AD Lab](Projects/Windows-AD-Lab)
 - Objective: Set up Active Directory, users, groups, and Group Policies
 - Skills demonstrated: Windows Server installation, AD management, GPOs, troubleshooting
 
