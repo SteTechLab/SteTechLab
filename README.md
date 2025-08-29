@@ -38,15 +38,15 @@ Hi, I’m Stefano, a self-taught IT technician with 10+ years of hands-on experi
 - Objective: Set up Active Directory, users, groups, and Group Policies
 - Skills demonstrated: Windows Server installation, AD management, GPOs, troubleshooting
 
-### [Linux VM Lab](Projects/Linux-VM-Lab/README.md)
+### [Linux VM Lab](Projects/Linux-VM-Lab)
 - Objective: Configure Linux VM with SSH, file permissions, and network settings
 - Skills demonstrated: Linux OS setup, basic CLI, permissions, connectivity
 
-### [Home Networking Lab](Projects/Networking-Lab/README.md)
+### [Home Networking Lab](Projects/Networking-Lab)
 - Objective: Set up and troubleshoot a home network with routers and Wi-Fi
 - Skills demonstrated: DHCP, static IPs, DNS, Wi-Fi signal optimization
 
-### [Troubleshooting Lab](Projects/Troubleshooting-Lab/README.md)
+### [Troubleshooting Lab](Projects/Troubleshooting-Lab)
 - Objective: Diagnose and fix real-world system issues
 - Skills demonstrated: Malware removal, performance tuning, data recovery
 
