@@ -6,6 +6,7 @@ Tools Used:
 - Windows Defender / Malwarebytes / Bitdefender / Kaspersky
 - CCleaner / performance tuning tools
 - System restore / recovery utilities
+- Driver Booster / Windows Update (for driver updates)
 
 Scenarios:
 1. Malware detection and removal
