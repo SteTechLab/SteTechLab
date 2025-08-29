@@ -13,5 +13,6 @@ Scenarios:
 2. Startup optimization and bloatware removal
 3. Registry cleanup
 4. Data recovery
+5. Driver updates and system stability improvements
 
 Screenshots: See /screenshots folder
