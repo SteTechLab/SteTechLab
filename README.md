@@ -7,7 +7,7 @@ Hi, I’m Stefano (Ste)! I’m a self-taught IT support technician with 10+ year
 ## Skills
 
 **Operating Systems & Software**
-- Installing and configuring Windows and Linux systems
+- Installing and configuring Windows and Linux systems, including disk partitioning and volume management
 - Installing drivers, custom firmware, and necessary software
 - Performance tuning: removing bloatware, adjusting startup, registry cleanup
 
