@@ -1,6 +1,6 @@
 # Linux Administration Lab
 
-Objective: Set up and administer a Linux virtual machine, practicing essential sysadmin tasks.
+Objective: Set up and configured a Linux virtual machine, practicing essential sysadmin tasks.
 
 Tasks Performed:
 1. Installed Linux VM and updated system packages
