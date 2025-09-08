@@ -62,11 +62,4 @@ Hi, I’m Stefano, a self-taught IT technician with 10+ years of hands-on experi
 - Italian – Native/Bilingual  
 - English – Proficient (B2)  
 
----
-
-## Portfolio
-- [Drive folder with lab files, screenshots, and notes](https://drive.google.com/drive/folders/1iOL1VOD1c_tl4xP1MKZqRJIgWkPHJnMD?usp=sharing)
-
----
-
 
