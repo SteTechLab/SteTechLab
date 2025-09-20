@@ -54,7 +54,7 @@ Hi, I’m Stefano, a self-taught IT technician with hands-on experience repairin
 
 ## Certifications
 - **Google IT Support Professional Certificate** (2025)  
-- [EF SET English Certificate](https://www.efset.org/) (B2, 2025)  
+- [EF SET English Certificate 61/100 (C1 Advanced)](https://www.efset.org/)
 
 ---
 
