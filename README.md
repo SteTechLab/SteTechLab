@@ -1,6 +1,6 @@
 # SteTechLab – IT Portfolio
 
-Hi, I’m Stefano, a self-taught IT technician with 10+ years of hands-on experience repairing and optimizing computers, smartphones, game consoles, and home networks. I completed the **Google IT Support Certificate** and have built strong troubleshooting, system administration, and networking skills through real-world projects. This portfolio showcases my practical work through labs and experiments demonstrating what I can do in IT support.
+Hi, I’m Stefano, a self-taught IT technician with hands-on experience repairing and optimizing computers, smartphones, game consoles, and home networks. I completed the **Google IT Support Certificate** and have built strong troubleshooting, system administration, and networking skills through real-world projects. This portfolio showcases my practical work through labs and experiments demonstrating what I can do in IT support.
 
 ---
 
