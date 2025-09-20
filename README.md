@@ -60,6 +60,6 @@ Hi, I’m Stefano, a self-taught IT technician with hands-on experience repairin
 
 ## Languages
 - Italian – Native/Bilingual  
-- English – Proficient (B2)  
+- English – B2+ (Upper-Intermediate)
 
 
