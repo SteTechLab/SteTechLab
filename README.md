@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Stefano 👋
 
-<!--
-**SteTechLab/SteTechLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught IT technician with hands-on experience in computer repair, 
+networking, and system administration.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- OS: Windows & Linux (setup, config, troubleshooting)
+- Networking: DHCP, DNS, static IPs, Wi-Fi security
+- Hardware: PC, smartphone & console repair
+- Tools: PowerShell, Bash, Active Directory, Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 Certifications
+- Google IT Support Professional Certificate (2025)
+- Google IT Automation with Python (2026)
+- EF SET English C1 Advanced (2026)
+
+## 📂 Portfolio
+👉 Check out my full project portfolio here:
+[IT-Portfolio](https://github.com/SteTechLab/IT-Portfolio)
